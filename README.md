@@ -30,6 +30,7 @@ https://github.com/rnahill/module-1-challenge
 
 
 [First Screenshot of Horiseon Company Main Site](./assets/images/screenshot-1.png)
+<br>
 [Second Screenshot of Horiseon Company Main Site](./assets/images/screenshot-2.png)
 
   
